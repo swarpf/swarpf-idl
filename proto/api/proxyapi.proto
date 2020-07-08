@@ -4,7 +4,6 @@ package proxyapi;
 
 import "google/protobuf/empty.proto";
 
-// option go_package = "github.com/lyrex/swarpf/pkg/proxyapi";
 option go_package = "proxyapi;proxyapi";
 
 service ProxyApi {
